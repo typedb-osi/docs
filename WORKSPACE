@@ -3,7 +3,7 @@ workspace(
 )
 
 ################################
-# Load @graknlabs_dependencies #
+# Load @vaticle_dependencies #
 ################################
 
 load("//dependencies/vaticle:repositories.bzl", "vaticle_dependencies")
