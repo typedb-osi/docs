@@ -6,5 +6,5 @@ workspace(
 # Load @graknlabs_dependencies #
 ################################
 
-load("//dependencies/graknlabs:repositories.bzl", "graknlabs_dependencies")
-graknlabs_dependencies()
+load("//dependencies/vaticle:repositories.bzl", "vaticle_dependencies")
+vaticle_dependencies()
