@@ -1,0 +1,28 @@
+version: 2.1
+commands:
+  install-bazel:
+    steps:
+      - run: curl -OL https://raw.githubusercontent.com/graknlabs/dependencies/master/tool/bazelinstall/linux.sh
+      - run: bash ./linux.sh && rm ./linux.sh
+      - run: curl -OL https://raw.githubusercontent.com/graknlabs/dependencies/master/tool/bazelinstall/rbe.sh
+      - run: bash ./rbe.sh && rm ./rbe.sh
+jobs:
+  release-production:
+    machine:
+      image: ubuntu-1604:201903-01
+    working_directory: ~/docs
+    steps:
+      - install-bazel
+      - checkout
+      - run: |
+          export RELEASE_DOCS_USERNAME=$REPO_GITHUB_USERNAME
+          export RELEASE_DOCS_EMAIL=$REPO_GITHUB_EMAIL
+          export RELEASE_DOCS_TOKEN=$REPO_GITHUB_TOKEN
+          bazel run @graknlabs_dependencies//tool/release:docs -- $CIRCLE_PROJECT_USERNAME website master $CIRCLE_PROJECT_REPONAME src/docs $CIRCLE_SHA1
+workflows:
+  docs:
+    jobs:
+      - release-production:
+          filters:
+            branches:
+              only: master
