@@ -7,10 +7,18 @@ layout: index.hbs
 
 ## TypeDB OSI Vision and Mission
 
-Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum . 
+A structured platform for users...
+
+* to contribute to the TypeDB development roadmap
+* to contribute to TypeDB server and libraries
+* to centralise all TypeDB projects as one ecosystem
+* As a vehicle to organise community projects via the TypeDB Project Incubator
+* As the support structure to empower a whole new generation of software developers
 
 ## TypeDB OSI Ecosystem
-TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB. You browse all Ecosystem technologies via [github.com/typedb-osi](https://github.com/typedb-osi), or you can head to specific projects list here. 
+TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB. You can browse all Ecosystem technologies via [github.com/typedb-osi](https://github.com/typedb-osi), or you can head to specific projects listed here. 
+
+TypeDB OSI Ecosystem technologies can also take advantage of early and/or pre-releases of TypeDB in order to understand implications and impact to a maintainers project. Additionally, the internal TypeDB team will be able to better understand the impact of new releases by testing with existing TypeDB Ecosystem projects.
 
 ### Ecosystem Technologies
 
@@ -38,29 +46,38 @@ TypeDB OSI Ecosystem comprises all resources and technologies to be used with Ty
 
 ### Resources
 #### Schema Gists
+Coming soon...
 
 #### Domain Datasets
-
-* Lorem ipsum
-* Lorem ipsum
+Coming soon...
 
 #### Query examples
+Coming soon...
 
 #### Skills Academy Series 
-
+TypeDB Academy sessions will be scheduled on a regular basis for the community. The sessions are: 
 * Getting Started with TypeDB and TypeQL
 * TypeQL Basics 
 * Modelling Domains Expressively 
 * Machine Reasoning with Rules
 * Working with Data in TypeDB
 
-TypeDB OSI Ecosystem technologies can also take advantage of early and/or pre-releases of TypeDB in order to understand implications and impact to a maintainers project. Additionally, the internal TypeDB team will be able to better understand the impact of new releases by testing with existing TypeDB Ecosystem projects. 
+### Ecosystem Roadmap 
+The TypeDB Ecosystem will also address open problems and project opportunities that would enhance or support the efforts of the larger community - whether that is exploring a new language api for an emerging programming language, or getting a head start on an IDE plug-in, we will work with the community to maintain an active list of open problems and opportunities.
+
+#### Submit a new project idea
+
+Submissions for new project ideas can be made via _________. These ideas will be reviewed during the monthly TypeDB OSI meeting and submittors of ideas selected for development will be notified via email. There is no obligation to own/ maintain development of submitted ideas, however, ideas submitted with interested developer/maintainer, will be prioritised.
+
+#### Submit an idea for an existing project
+
+Submissions for feature requests, ideas for improvement, etc., for existing projects can be made directly via the projects github repo - submit an "feature request" issue with as much detail as possible, adhering to the template provided.
+
+For further details see TypeDB Incubator: Contribution Guidelines
 
 ## TypeDB OSI Incubator
 
-Nurture TypeDB open source projects to a state of  maturity. Providing the community with production-ready,  high-standard of quality, independent, tools to aid in and accelerate their development. 
-
-As the TypeDB OSI is intended to provide a platform for innovation and acceleration of development in open-source technologies, participating projects in the TypeDB OSI Incubator will have access to a host of benefits. These are meant to provide more formal guidelines and a support structure not easily obtained as an independent project outside the TypeDB OSI. 
+Nurture TypeDB open source projects to a state of  maturity. Providing the community with production-ready,  high-standard of quality, independent tools to aid in, and accelerate their development.
 
 ### Benefits for maintainers and project owners
 
@@ -95,11 +112,6 @@ The protocol for submitting a new project is as follows - *subject to change, by
 Quality standards for all new and existing projects within the TypeDB OSI Ecosystem are meant to ensure that community members have the highest confidence in the tools they use for their development, as well as ensure that Incubator projects have the greatest chance of success.  
 #### Prerequisite for new projects
 * Have an active maintainer/project owner willing to commit to ownership of project for at least the next 6 months
-* Adhere to TypeDB OSI Incubator quality prerequisites:
-  * Lorums lkajsdf
-  * Alskdfjnu kjasdnf 
-  * Dsf sadflj asldf
-  * ;ajsdf lkasd asd
 
 #### QA support for existing projects
 
