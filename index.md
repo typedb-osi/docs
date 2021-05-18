@@ -46,16 +46,18 @@ TypeDB Academy sessions will be scheduled on a regular basis for the community. 
 * Machine Reasoning with Rules
 * Working with Data in TypeDB
 
-### Submit a new project or idea to the TypeDB Incubator
+### Submit a new project idea to the TypeDB Incubator
 
-Submissions for new project ideas can be made via _________. These ideas will be reviewed during the monthly TypeDB OSI meeting and submitters of ideas selected for development will be notified via email. There is no obligation to own/ maintain development of submitted ideas, however, ideas submitted with interested developer/maintainer, will be prioritised.
+Submissions for new project ideas can be made via _________. These ideas will be reviewed during the monthly TypeDB OSI meeting and selected based on the TypeDB OSI roadmap. There is no obligation to own/ maintain development of submitted ideas, however, ideas submitted with interested developer/maintainer, will be prioritised.
+#### [Submit a project idea](mailto:daniel@vaticle.com)
 
 ### Submit an idea for an existing project
 
-Submissions for feature requests, ideas for improvement, etc., for existing projects can be made directly via the projects github repo - submit an "feature request" issue with as much detail as possible, adhering to the template provided.
+Submissions for feature requests, ideas for improvement, etc., for existing projects can be made directly via the projects github repo - submit a "feature request" issue with as much detail as possible, adhering to the template provided.
 
-For further details see TypeDB Incubator: Contribution Guidelines
+For further details see [TypeDB Incubator: Contribution Guidelines](#Contributor Guidelines)
 
+### How does the TypeDB OSI benefit maintainers and their projects?
 |For Projects | For Maintainers |
 | --- | --- |
 | Standards for contribution  | Find contributors
@@ -63,7 +65,7 @@ For further details see TypeDB Incubator: Contribution Guidelines
 | Promotion and visibility | Dedicated discord channel|
 | Ensure continuity over project lifetime | Github organisation maintenance |
 
-### [Submit your existing project into the incubator](mailto:daniel@vaticle.com)
+#### [Submit your existing project into the incubator](mailto:daniel@vaticle.com)
 
 ## TypeDB Development Roadmap
 
@@ -82,9 +84,7 @@ Coming soon...
 >A TypeDB OSI Contributor is someone who makes consistent improvements to TypeDB, TypeDB OSI Incubator or TypeDB OSI Ecosystem projects. All individuals who wish to contribute to TypeDB OSI projects and/or repos need to have a signed contributor agreement on file with TypeDB OSI.
 
 ### Employement Forum
-The TypeDB OSI Employement Forum exists to provide a forum to share full-time, part-time, and consulting work, related to TypeDB OSI Ecosystem and partner technologies, as well as Incubator projects.
-We want to create an environment that fosters experience, and career growth, across members skill levels.
-Not just development and engineering opportunities but gigs in data science, strategy, implementation and more.
+Hosted on the [Discussion Forum](#discussion-forumhttpsforumvaticlecom), the TypeDB OSI Employement Forum exists to provide a forum to share full-time, part-time, and consulting work, related to TypeDB OSI Ecosystem and partner technologies, as well as Incubator projects.
 
 ### Contributor Agreements
 The TypeDB OSI  uses various agreements to accept regular contributions from individuals and corporations, and to accept larger grants of existing software technologies.
@@ -95,24 +95,24 @@ These agreements help us achieve our goal of providing reliable and long-lived s
 
 ## Governance and Operations
 >The organisational structure of the TypeDB OSI Committee that will run, moderate, organise and lead the initiatives. Advisors and Leaders to be nominated and voted in by all members of the committee. 
-### [Governance and Operations Guidelines](link to governance doc on github)
+### [Governance and Operations Guidelines](https://github.com/typedb-osi/docs/blob/master/governance.md)
 
 ### Organisational Structure
 
-#### Leaders and Advisors
+### Leaders and Advisors
 
 >Leaders are nominated and voted on by TypeDB OSI members. They provide the oversight and management of TypeDB Incubator, set standards for work, set development roadmap for TypeDB open-source project and community projects.
 
 >Adviors are veterans, experts in their domain and want to support the efforts of the TypeDB OSI through strategic and/or directional input.
 
 
-#### Mentors and Contributors
+### Mentors and Contributors
 
 >Mentors are available for Ecosystem technologies and projects and can be assigned to a TypeDB Incubator project, code reviewers, sr. engineers. Also available for consult by TypeDB project owners and maintainers. 
 
 >Contributors are anyone that is contributing to a TypeDB OSI Project
 
-#### Partners and Members
+### Partners and Members
 
 >Partners are anyone that would like to bridge the gap between TypeDB and external communities (MLH, Julia, etc.).  
 
@@ -122,10 +122,6 @@ These agreements help us achieve our goal of providing reliable and long-lived s
 
 ### [Discord](https://grakn.ai/discord)
 
-All TypeDB OSI Members are given the [TypeDB-OSI] role and access to all TypeDB OSI channels in Discord.
-
 ### [Discussion Forum](https://forum.vaticle.com)
-
-All TypeDB OSI Members are given access to the TypeDB-OSI group in the discussion forum. This will include updates from leadership, meeting recaps and recordings, and project specific conversations. 
 
 ### [Github Organisation](https://github.com/typedb-osi)
