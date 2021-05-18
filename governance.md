@@ -128,11 +128,11 @@ While we recommend to start projects within the TypeDB OSI github organisation, 
 
 ### Licensing
 
-TODO
+The community edition of TypeDB is licensed under AGPL, but for any driver or client library that uses or implements AGPL code such as Protocol or TypeQL, we make an explicit exception in our AGPL license allowing you to release those under the more permissive licenses MIT, 2-clause BSD or Apache. You'll find the legal language for this exception in the AGPL license file. 
 
-#### Recommendations 
+#### Recommendations for your project
 
-TODO
+We recommend making projects as permissive as possible, whether that means using Apache, MIT or 2-clause BSD, which are all permissive licenses. Depending on specific cases within a project you can select another license not mentioned.
 
 ### Project Communication
 
