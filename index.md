@@ -99,20 +99,20 @@ These agreements help us achieve our goal of providing reliable and long-lived s
 
 ### Organisational Structure
 
-### Leaders and Advisors
+**Leaders and Advisors**
 
 >Leaders are nominated and voted on by TypeDB OSI members. They provide the oversight and management of TypeDB Incubator, set standards for work, set development roadmap for TypeDB open-source project and community projects.
 
 >Adviors are veterans, experts in their domain and want to support the efforts of the TypeDB OSI through strategic and/or directional input.
 
 
-### Mentors and Contributors
+**Mentors and Contributors**
 
 >Mentors are available for Ecosystem technologies and projects and can be assigned to a TypeDB Incubator project, code reviewers, sr. engineers. Also available for consult by TypeDB project owners and maintainers. 
 
 >Contributors are anyone that is contributing to a TypeDB OSI Project
 
-### Partners and Members
+**Partners and Members**
 
 >Partners are anyone that would like to bridge the gap between TypeDB and external communities (MLH, Julia, etc.).  
 
