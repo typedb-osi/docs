@@ -16,54 +16,33 @@ A structured platform for users...
 * As the support structure to empower a whole new generation of software developers
 
 ## TypeDB OSI Ecosystem
-TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB. You can browse all Ecosystem technologies via [github.com/typedb-osi](https://github.com/typedb-osi), or you can head to specific projects listed here. 
-
-TypeDB OSI Ecosystem technologies can also take advantage of early and/or pre-releases of TypeDB in order to understand implications and impact to a maintainers project. Additionally, the internal TypeDB team will be able to better understand the impact of new releases by testing with existing TypeDB Ecosystem projects.
+>TypeDB OSI Ecosystem comprises all resources and technologies to be used with TypeDB. You can browse all Ecosystem technologies via [github.com/typedb-osi](https://github.com/typedb-osi), or you can head to specific projects listed here.
 
 ### Ecosystem Technologies
+|  |  |  |  | |
+| ---- | --- | ---| ---| --- |
+|IDE Plug-ins | [Emacs](https://github.com/typedb-osi/typeql-plugin-emacs) | [JetBrains](https://github.com/typedb-osi/typeql-plugin-jetbrains) | [VSCode](https://github.com/typedb-osi/typeql-plugin-vscode) | [Atom](https://github.com/typedb-osi/typeql-plugin-atom) |
+| Client Drivers   | [Julia](https://github.com/typedb-osi/TypeDBClient.jl) | [Go](https://github.com/taliesins/typedb-client-go) | [Haskell](https://github.com/typedb-osi/typedb-client-haskell)
+| Language Libraries   | [Python](https://github.com/typedb-osi/typeql-lang-python)   
+| Data Loaders   | [TypeDB Loader](https://github.com/bayer-science-for-a-better-life/grami)    
+| ML Libraries   | [KGLIB](https://github.com/vaticle/KGLIB)
+| Domain Graphs| [BioGrakn](https://github.com/vaticle/biograkn-covid)
 
-#### Client Drivers
+### Ecosystem Resources
+|  | | |
+| ---- | --- | --- | 
+| Learning and Events   | [TypeDB Academy](https://forum.vaticle.com/c/learning/graknacademy/25) | [Upcoming Events](https://forum.vaticle.com/c/events/online-events/26) 
+| Schema Gists | Coming soon...
+| Datasets | Coming soon...
+| Query Examples | Coming soon...
 
-* [typedb-osi-client-julia](https://github.com/typedb-osi/typedb-client.jl)
-* [typedb-osi-client-go](https://github.com/typedb-osi/typedb-client.go)
-* [typedb-osi-client-haskell](https://github.com/typedb-osi/typedb-osi-client-haskell)
-
-#### Language Libraries
-
-* [typeql-python](https://github.com/typedb-osi/typeql-python)
-
-#### Data Loaders
-* [typedb-osi-loader](https://github.com/bayer-science-for-a-better-life/grami)
-
-#### Machine Learning Libraries
-* [KGLIB](https://github.com/vaticle/kglib) 
-
-#### Domain Graphs
-* [BioGrakn](https://github.com/vaticle/biograkn-covid)
-
-#### IDE Plugins	
-* [typeql-plugin-emacs](https://github.com/typeql-plugin-emacs) 
-
-### Resources
-#### Schema Gists
-Coming soon...
-
-#### Domain Datasets
-Coming soon...
-
-#### Query examples
-Coming soon...
-
-#### Skills Academy Series 
+#### TypeDB Academy Series 
 TypeDB Academy sessions will be scheduled on a regular basis for the community. The sessions are: 
 * Getting Started with TypeDB and TypeQL
 * TypeQL Basics 
 * Modelling Domains Expressively 
 * Machine Reasoning with Rules
 * Working with Data in TypeDB
-
-### Ecosystem Roadmap 
-The TypeDB Ecosystem will also address open problems and project opportunities that would enhance or support the efforts of the larger community - whether that is exploring a new language api for an emerging programming language, or getting a head start on an IDE plug-in, we will work with the community to maintain an active list of open problems and opportunities.
 
 #### Submit a new project idea
 
