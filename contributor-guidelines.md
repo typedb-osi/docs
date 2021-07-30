@@ -3,10 +3,10 @@ The official contributors guidelines for the TypeDB OSI will be hosted here. Thi
 
 ## Contents
 - [Developer Resources](#Developer-Resources)
-- [Making Your First Commit](Making-Your-First-Commit)
-- [Best Practices](Best-Practices)
-- [Licensing Recommendations](Licensing-Recommendations)
-- [Content Creators Guide](Content-Creators-Guide)
+- [Making Your First Commit](#Making-Your-First-Commit)
+- [Best Practices](#Best-Practices)
+- [Licensing Recommendations](#Licensing-Recommendations)
+- [Content Creators Guide](#Content-Creators-Guide)
 
 ## Developer Resources
 Coming soon. 
