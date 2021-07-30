@@ -48,6 +48,8 @@ If you have already started using TypeDB, got yourself out of jams along the way
 - Using TypeDB for a specific business scenario
 - Guide to working with TypeDB and various tools (PyTorch, Stanford NLP, SpaCy, etc.)
 
-The TypeDB OSI encourages creators to publish the content produced on their own channels, and then share them with the community on discord where we will all repost and share out as appropriate. Not only that but because of our community's relationship with global tech publications DZone and Towards Data Science, it is likely that they will pick up your post and publish as well. 
+The TypeDB OSI encourages creators to publish the content produced on their own channels, and then share them with the community on discord where we will all repost and share out across our collective networks. 
+
+**Not only that, but because of our community's relationship with global tech publications DZone, Hackernoon, and Towards Data Science, it is likely that they will pick up your post and publish on their site as well.** 
 
 Those interested can reach out to [community@vaticle.com](mailto:community@vaticle.com) or message our community manager Daniel on [discord](https://vaticle.com/discord) ( @dainel ).
