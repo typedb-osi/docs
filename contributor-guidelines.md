@@ -52,4 +52,4 @@ The TypeDB OSI encourages creators to publish the content produced on their own 
 
 **Not only that, but because of our community's relationship with global tech publications DZone, Hackernoon, and Towards Data Science, it is likely that they will pick up your post and publish on their site as well.** 
 
-Those interested can reach out to [community@vaticle.com](mailto:community@vaticle.com) or message our community manager Daniel on [discord](https://vaticle.com/discord) ( @dainel ).
+Those interested can reach out to [community@vaticle.com](mailto:community@vaticle.com) or message our community manager Daniel on [discord](https://vaticle.com/discord) ( @daniel ).
